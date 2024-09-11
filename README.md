@@ -6,7 +6,7 @@ This project aims to predict house prices using the XGBoost algorithm. The model
 
 ### Features
 
-Feature Analysis: Includes square footage, grade, bathrooms, location, etc.
-Model: XGBoost Regressor for accurate price predictions.
-Optimization: Hyperparameter tuning for improved model performance.
-Evaluation: Metrics such as R-squared and RMSLE to assess accuracy.
+1. Feature Analysis: Includes square footage, grade, bathrooms, location, etc.
+2. Model: XGBoost Regressor for accurate price predictions.
+3. Optimization: Hyperparameter tuning for improved model performance.
+4. Evaluation: Metrics such as R-squared and RMSLE to assess accuracy.
